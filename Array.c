@@ -45,7 +45,7 @@ void sortArray(int arr[], int size) {
 }
 /*Main function*/
 int main() {
-    int arr[9] = {0};
+    int arr[10] = {0};
     int size = 0;
     printf("Enter the elements of the array:\n");
     for (int i = 0; i < 9; i++) {
